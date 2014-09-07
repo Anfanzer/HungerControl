@@ -1,0 +1,6 @@
+name: HungerControl
+version: 1.0-SNAPSHOT
+main: bukkit.anfanzer.hc.HungerControl
+commands:
+    hc:
+        description: All commands for HungerControl.
